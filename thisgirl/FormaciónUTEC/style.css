@@ -1,0 +1,14 @@
+.segunda h3 button{
+  		 background-color:#288190;
+  	 font-family:arial;
+  	 text-decoration :none;
+  	 display:block;
+  	 border-radius :20px;
+  	 border:1px solid gray;
+  	 width:50px;
+     height:10px;
+     transition:2%;
+     -webkit-transition:2%;
+     -o-transition:2%;
+     -moz-transition:2%;
+   }

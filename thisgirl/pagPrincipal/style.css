@@ -1,0 +1,330 @@
+ 
+ body{ 
+ background-color:#F2DE77;
+ 	padding:0;
+ 	margin:0;
+    margin-left:10px;
+  }
+ 
+ 
+   #parf1{ 
+   	text-align:center;
+    width: inherit;
+   	padding:2vw;
+  	margin:2vw;
+    width: 70vw;
+    height: 20vw;
+
+   }
+
+   #parf2{ .
+   	text-align:center;
+    width: inherit;
+   	padding:3vw
+  	margin-left:5vw;
+    
+    
+    }
+
+   #parrafo2{ 
+   	text-align:center;
+    width: inherit;
+   	padding:1vw;
+  	margin:2vw;
+    top:0vw;
+    width: 60vw;
+    height: 20vw;
+
+   }
+
+  .primera{
+  	background-color:blue;
+  	margin-left:1px;
+    top:0vw;
+    width:100vw;
+  	height:40vw;
+  	
+    }
+
+  .otro{
+  	background-color:#AAB0B5;
+    top:0vw;
+    width:100vw;
+  	height:40vw;
+  	
+    }
+
+
+      #Img{
+	width: 35vw;
+	height:35vw;
+	left:50vw;
+	margin-top: 1vw;
+	margin-bottom:1vw;
+	}
+
+     #text1{
+   	font-family:vardana;
+   	font-size:2vw;
+   	padding:5vw
+  	margin-left:20vw;
+   	right:50vw;
+   	width:40vw 
+	height: 30vw;
+	float:left;
+      }
+            #Img{
+	width: 35vw;
+	height:40vw;
+	left:50vw;
+	margin-top: 1vw;
+	margin-bottom:1vw;
+	float:left;
+	}
+
+
+        #text2{
+   	font-family:vardana;
+   	text-align:center
+   	left:10vw;
+   	font-size: 2vw;
+   	padding:1vw
+  	margin-left:10vw;
+  	float:left; 
+  
+    }
+
+
+            #text3{
+   	font-family:vardana;
+   	padding:1vw
+  	margin:2vw;
+  	 
+  
+   
+     }
+     #text4  {font-family:vardana;
+    padding:5vw;
+  	margin:5vw;
+    top:10vw;
+   	left:50vw;
+   	width:80vw 
+	height: 30vw;
+	
+      }
+
+     .button icon-icon-home{
+  		 background-color:#288190;
+  	 font-family:arial;
+  	 text-decoration :none;
+  	 display:block;
+  	 border-radius:20px;
+  	 border:1px solid gray
+  	 width:50px;
+     height:10px;
+     transition:2%;
+     -webkit-transition:2%;
+     -o-transition:2%;
+     -moz-transition:2%;
+   }
+   .button h2{
+  	background-color:#ffff;
+   		color:288190;
+   }
+
+     }
+
+  .uno {
+  	 background-color:#288190;
+  	 font-family:arial;
+  	 text-decoration :none;
+  	 display:block;
+  	 border:1px solid gray;
+  	 width:50px;
+     height:20px;
+     transition:2%;
+     -webkit-transition:2%;
+     -o-transition:2%;
+     -moz-transition:2%;
+   }
+   	.uno a:hover{
+   		background-color:#ffff;
+   		color:288190;
+   	}
+   	
+
+   
+
+
+    #parrafo3{
+   	width: inherit;
+    top:8vw;
+    margin-right:50vw;
+   	width:40vw 
+	height: 40vw;
+    }
+    #parrafo4{
+   	text-align:center;
+   	width: inherit;
+    top:8vw;
+   	width:40vw 
+	height: 10vw;
+    }
+    h1 {
+  	font-family: arial;
+  	 font-weight:bold
+	font-size: 2vw;
+	text-align: center;
+
+   }
+     h2 {
+  	font-family:vardana;
+  	font-size: 2vw;
+	text-align: center;
+
+   }
+   h6 {
+  	font-family:vardana;
+  	font-size: 2vw;
+	text-align: center;
+     }
+   h4{
+  	font-family:Courler;
+  	font-size: 2vw;
+	text-align: center;
+     }
+      h5{
+  	font-family:vardana;
+  	font-size: 2vw;
+	text-align: center;
+     }
+
+
+  p {
+  	font-family: "mifuente";
+	font-size: 2vw;
+	
+  }
+  
+  @font-face{
+   	font-family:"mifuente";
+   	src:url('font/IBMPlexSans-Thin.ttf');
+ 
+  	  }
+  	  por terminar
+    
+ @media(max-width: 1024px) {
+    
+ 
+   #parrafo1{ 
+   	text-align:center;
+   width: inherit;
+   top:50vw;
+   width: 60vw;
+   height: 20vw;
+
+   }
+
+  .caja1{
+  	background-color:blue;
+  	position:relative;
+  	top:0vw;
+    left:50vw;
+  	width:40vw;
+  	height:15vw;
+    }
+     #parrafo2{
+   	font-family:vardana;
+   	width: inherit;
+    top:4vw;
+   	left:75vw;
+   	width:40vw 
+	height: 10vw;
+    
+
+  .caja2{
+  	background-color:red;
+    position:relative;
+  	top:0vw;
+  	width:20vw;
+  	height:5vw;
+    
+   }
+   	
+
+   #parrafo2{
+   	font-family:vardana;
+   	width: inherit;
+    top:4vw;
+   	left:75vw;
+   	width:40vw 
+	height: 10vw;
+    
+ 
+      }
+
+      #Imagen {
+	width: 35vw;
+	height:225vw;
+	margin-left: 1vw;
+	margin-right:1vw;
+	margin-top: 1vw;
+	margin-bottom:1vw;
+	 }
+    
+   #parrafo3{
+   	width: inherit;
+    top:8vw;
+    margin-right:5vw;
+   	width:40vw 
+	height: 10vw;
+    }
+    #parrafo4{
+   	text-align:center;
+   	width: inherit;
+    top:8vw;
+   	width:40vw 
+	height: 10vw;
+    }
+   h1 {
+  	font-family: arial;
+  	 font-weight:bold
+	font-size: 2vw;
+	text-align: center;
+
+   }
+     h2 {
+  	font-family:vardana;
+  	font-size: 2vw;
+	text-align: center;
+
+   }
+   h6 {
+  	font-family:vardana;
+  	font-size: 2vw;
+	text-align: center;
+     }
+   h4{
+  	font-family:Courler;
+  	font-size: 2vw;
+	text-align: center;
+     }
+      h5{
+  	font-family:vardana;
+  	font-size: 2vw;
+	text-align: center;
+     }
+
+
+  p {
+  	font-family: "mifuente";
+	font-size: 2vw;
+	
+  }
+  
+  @font-face{
+   	font-family:"mifuente";
+   	src:url('font/IBMPlexSans-Thin.ttf');
+ 
+
+  
